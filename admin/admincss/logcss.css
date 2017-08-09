@@ -1,0 +1,45 @@
+body{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+
+}
+#head{
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: 10px 0 10px 0;
+    padding: 0 0 0 0;
+    margin-bottom: 10px;
+}
+h1{margin: 0 0 0 0 ;
+    padding: 10px 0 10px 0;
+    background-color: #3b5998;
+    text-align: center;
+    /*border-radius: 10px;*/
+    color: white;
+}
+#form{
+    text-align: center;
+    background-color: #dfe3ee;
+    border-radius: 25px;
+    margin: 0 300px 0 300px;
+    padding: 10px 0 10px 0;
+}
+#button{
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px 0 0 0;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+input
+{
+
+    border-radius: 15px;
+    border:solid 1px whitesmoke;
+    padding:5px;
+    margin: 5px 0 5px 0;
+}
